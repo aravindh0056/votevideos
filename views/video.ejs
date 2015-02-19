@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html ng-app>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <script src="/js/components/angular/angular.min.js"></script>
+    <link rel='stylesheet' href="/js/components/bootstrap/dist/css/bootstrap.css"></link>
+    <script src="/js/controller/videoController.js"></script>
+  </head>
+  <body ng-controller="VideoListCtrl">
+    <h1 align="center">Vote your video!</h1>
+    <br><br>
+	<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-10">
+    	<div style="margin-left:150px">
+    		<label style="font-size:20px;" for="searchId">Filter</label>
+    		<input id="searchId" class="search form-control" style="width:400px;" ng-model="query">
+    	</div>
+    	<br><br>
+      <ul>
+        <li ng-repeat="video in videos | filter:query"
+            class="thumbnail">
+        <div class="row">
+			<div class="col_1">
+			<a href="#" class="thumb"><img style="height: 86px;" ng-src="{{video.thumbnailUrl}}"></a>
+			</div>
+			<div class="col_2">
+			<h3><a href="javascript:void(0);">{{video.title}}</a></h3>
+			</div>
+			<div  class="col_3">
+				<div class="col_4">
+				<a href="javascript:void(0);" ng-click="upVote(video.title)">
+					<img ng-show="!video.liked" style="height: 23px" ng-src="/images/upvote.png">
+          <img ng-show="video.liked" style="height: 23px;" ng-src="/images/upvoted.png">
+				</a>
+				</div>
+				<div class="col_4">
+				{{video.votes.total}}
+				</div>
+				<div class="col_4">
+				<a href="javascript:void(0);" ng-click="downVote(video.title)">
+          <img ng-show="!video.unLiked" style="height: 23px;" ng-src="/images/downvote.jpg">
+          <img ng-show="video.unLiked" style="height: 23px;" ng-src="/images/downvoted.png">
+				</a>
+				</div>
+			</div>
+		</div>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</div>
+  </body>
+</html>

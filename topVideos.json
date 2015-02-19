@@ -1,0 +1,2476 @@
+{
+    "videos": [
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71000127",
+            "title": "Baby",
+            "year": 2010,
+            "copyright": "(C) 2010 The Island Def Jam Music Group",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/6D2D558351E6F7169C901DBBB3378CE0.jpg",
+            "duration": 219,
+            "releaseDate": "2010-02-19T08:00:00Z",
+            "votes": {
+                "total": 114
+            },
+            "artists": [
+                {
+                    "name": "Ludacris",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/D707F90DF5A83CF2242AD9D1E53CFDA2.jpg"
+                },
+                {
+                    "name": "Justin Bieber",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/D99089E32709E1311B8022F0B72D5410.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71100390",
+            "title": "Party Rock Anthem",
+            "urlSafeTitle": "Party-Rock-Anthem",
+            "year": 2011,
+            "copyright": "(C) 2011 Foo & Blu, LLC under exclusive License to Interscope Records",
+            "shortUrl": "http://vevo.ly/gi9DiP",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/08C5D223B91F21021C1349135398AC2C.jpg",
+            "duration": 376,
+            "releaseDate": "2011-03-10T10:00:00Z",
+            "votes": {
+                "total": 822
+            },
+            "artists": [
+                {
+                    "name": "LMFAO",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/9F28259D413B673A92EBC605157BA436.jpg"
+                },
+                {
+                    "name": "Redfoo",
+                    "role": "Associated",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/EA1A524E997510810424EDA35A9C4E9F20131510121928946.jpg"
+                },
+                {
+                    "name": "GoonRock",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/B93B957CF7AA1CA8B0F49865F9D0239C.jpg"
+                },
+                {
+                    "name": "Lauren Bennett",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/B93B957CF7AA1CA8B0F49865F9D0239C.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71100181",
+            "title": "On The Floor",
+            "urlSafeTitle": "On-The-Floor",
+            "year": 2011,
+            "copyright": "(C) 2011 The Island Def Jam Music Group",
+            "shortUrl": "http://vevo.ly/gmQA3U",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/3F3C19FA0EEA098651F07C38FE0EAC34.jpg",
+            "duration": 266,
+            "releaseDate": "2011-03-04T02:45:00Z",
+            "votes": {
+                "total": 184
+            },
+            "artists": [
+                {
+                    "name": "Jennifer Lopez",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/045F0B5817E0E32B2D7DADEC33634F0D201453154651277.jpg"
+                },
+                {
+                    "name": "Pitbull",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/F2DCFE7A1F6345C11E904ADCF296D549.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71400083",
+            "title": "Dark Horse (Official)",
+            "urlSafeTitle": "Dark-Horse-(Official)",
+            "year": 2014,
+            "copyright": "(C) 2014 Capitol Records, LLC",
+            "shortUrl": "http://vevo.ly/9IKRtE",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/CC9C6C48104B42A2A8277FFA0BAC258E2014109133153769.jpg",
+            "duration": 224.932,
+            "releaseDate": "2014-02-20T20:00:00Z",
+            "votes": {
+                "total": 811
+            },
+            "artists": [
+                {
+                    "name": "Juicy J",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/8D0CBF8BFEA8BF0FB4F6F9C8E3C9E7A2.jpg"
+                },
+                {
+                    "name": "Katy Perry",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/D29F946E54A8B55D42FD7C3C8292FB2920132310151933847.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71001543",
+            "title": "Love The Way You Lie",
+            "urlSafeTitle": "Love-The-Way-You-Lie",
+            "year": 2010,
+            "copyright": "(C) 2010 Aftermath Records",
+            "shortUrl": "http://vevo.ly/eZlnjR",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/591CAD9F82A1BEB295826B08237E7160.png",
+            "duration": 266,
+            "releaseDate": "2010-08-06T01:00:00Z",
+            "votes": {
+                "total": 810
+            },
+            "artists": [
+                {
+                    "name": "Eminem",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/9D117A7B47524B2C1BC0930469C910742013278132921882.jpeg"
+                },
+                {
+                    "name": "Rihanna",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/6A699B7848490BC912E2E25206F41FAA.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USSM21000872",
+            "title": "Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)",
+            "urlSafeTitle": "Waka-Waka-(This-Time-for-Africa)-(The-Official-2010-FIFA-World-Cup%E2%84%A2-Song)",
+            "year": 2010,
+            "copyright": "(C) 2010 Sony Music Entertainment",
+            "shortUrl": "http://vevo.ly/i9uuSn",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/DED014F96E49DDF32831DEC69DEE1124.jpg",
+            "duration": 210,
+            "releaseDate": "2010-06-07T07:00:00Z",
+            "votes": {
+                "total": 805
+            },
+            "artists": [
+                {
+                    "name": "Shakira",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/DC118EB1EBA6888089B1D0A6E162F4B92014283134412158.jpg"
+                },
+                {
+                    "name": "Freshlyground",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/9C3C657665EDCEBC872AEAB7C1C0CD56.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71301934",
+            "title": "Roar (Official)",
+            "urlSafeTitle": "Roar-(Official)",
+            "year": 2013,
+            "copyright": "© 2013 Capitol Records",
+            "shortUrl": "http://vevo.ly/Gcxgnb",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/97705EE570F46BD3A858C3D8F0874166201410914846639.jpg",
+            "duration": 269.102,
+            "releaseDate": "2013-09-05T20:00:00Z",
+            "votes": {
+                "total": 798
+            },
+            "artists": [
+                {
+                    "name": "Katy Perry",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/D29F946E54A8B55D42FD7C3C8292FB2920132310151933847.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USRV81300400",
+            "title": "Wrecking Ball",
+            "urlSafeTitle": "Wrecking-Ball",
+            "year": 2013,
+            "copyright": "(C) 2013 RCA Records, a division of Sony Music Entertainment",
+            "shortUrl": "http://vevo.ly/IoNHB7",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/1F2BCF2B2ED5FC2F25412FAAB2C4DE6F201369114643878.jpg",
+            "duration": 221.221,
+            "releaseDate": "2013-09-09T16:00:00Z",
+            "votes": {
+                "total": 758
+            },
+            "artists": [
+                {
+                    "name": "Miley Cyrus",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/1B7CD50517771C16575DE40A86B5312420133610055825.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "GBUV71400428",
+            "title": "Bailando (Español)",
+            "urlSafeTitle": "Bailando-(Espanol)",
+            "year": 2014,
+            "copyright": "(C) 2014 Universal International Music B.V.",
+            "shortUrl": "http://vevo.ly/hThqXL",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/7D8D74B0A80EA2821F0521D4CA94804F20142810165557922.jpg",
+            "duration": 286.787,
+            "releaseDate": "2014-04-11T07:00:00Z",
+            "votes": {
+                "total": 705
+            },
+            "artists": [
+                {
+                    "name": "Descemer Bueno",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/8D6DE77127CE9745A7F00042C993191B.jpg"
+                },
+                {
+                    "name": "Enrique Iglesias",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/10374D79EC6B0F876C0A70772DF8C2872014184103656152.png"
+                },
+                {
+                    "name": "Gente De Zona",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/9CFDB86CE30715EBBF3DB8988597AAD4201439161956828.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "CAB401100094",
+            "title": "Call Me Maybe",
+            "urlSafeTitle": "Call-Me-Maybe",
+            "year": 2011,
+            "copyright": "(C) 2011 604 Records Inc.",
+            "shortUrl": "http://vevo.ly/umTKgZ",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/86D1EBD8F38239ED1D698A586A516BE3.jpg",
+            "duration": 199.282,
+            "releaseDate": "2011-12-09T08:00:00Z",
+            "votes": {
+                "total": 562
+            },
+            "artists": [
+                {
+                    "name": "Carly Rae Jepsen",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/CFACF4DAF778858D2616F9C6D76BE188201318620635681.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71301101",
+            "title": "Counting Stars",
+            "urlSafeTitle": "Counting-Stars",
+            "year": 2013,
+            "copyright": "(C) 2013 Mosley Music/Interscope Records",
+            "shortUrl": "http://vevo.ly/sTov0A",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/2E3D56D85A1506AFA9F80323DB99F206.jpg",
+            "duration": 282,
+            "releaseDate": "2013-05-31T07:00:00Z",
+            "votes": {
+                "total": 684
+            },
+            "artists": [
+                {
+                    "name": "OneRepublic",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/DCABFAFC688A77D13AA2FD7BE8C77EAE.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71001653",
+            "title": "Danza Kuduro",
+            "urlSafeTitle": "Danza-Kuduro",
+            "year": 2010,
+            "copyright": "(C) 2010 Yanis Records under exclusive License to Machete Music",
+            "shortUrl": "http://vevo.ly/i8XvpM",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/00B674A6BCCDCFF03CE88DCA4D4327C2.jpg",
+            "duration": 240,
+            "releaseDate": "2010-08-17T07:00:00Z",
+            "votes": {
+                "total": 643
+            },
+            "artists": [
+                {
+                    "name": "Don Omar",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/39B2706230D846B4DABD7324789BE4E7201316920817366.png"
+                },
+                {
+                    "name": "Lucenzo",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/3B9A776D24C313A7687972BE21EDB52D.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV70903493",
+            "title": "Bad Romance",
+            "urlSafeTitle": "Bad-Romance",
+            "year": 2009,
+            "copyright": "(C) 2009 Interscope Records",
+            "shortUrl": "http://vevo.ly/hK2oby",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/5B280CAA6C47EAC4EFF0292E9DA7E3FE201451293644375.jpg",
+            "duration": 313,
+            "releaseDate": "2009-11-09T08:00:00Z",
+            "votes": {
+                "total": 651
+            },
+            "artists": [
+                {
+                    "name": "Lady Gaga",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/A74BC1B3B03526DB960A049AB110EC182013278111146264.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "GB1101100318",
+            "title": "What Makes You Beautiful",
+            "urlSafeTitle": "What-Makes-You-Beautiful",
+            "year": 2011,
+            "copyright": "(C) 2011 Simco Limited under exclusive license to Sony Music Entertainment UK Limited",
+            "shortUrl": "http://vevo.ly/o8Y0aW",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/E2BBB2EE588F3E2F7A62127D4984C2A3.jpg",
+            "duration": 206.289,
+            "releaseDate": "2011-08-19T15:00:00Z",
+            "votes": {
+                "total": 609
+            },
+            "artists": [
+                {
+                    "name": "One Direction",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/3747B1DAF8EA02BD2171F0EF5B4DCFC9201421107597101.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "GB1411000094",
+            "title": "Rolling in the Deep",
+            "urlSafeTitle": "Rolling-in-the-Deep",
+            "year": 2010,
+            "copyright": "(C) 2010 XL Recordings Ltd.",
+            "shortUrl": "http://vevo.ly/hGFTUs",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/DF09B7FA463832D1B50187802875A7ED.jpg",
+            "duration": 233.84,
+            "releaseDate": "2010-12-10T08:00:00Z",
+            "votes": {
+                "total": 608
+            },
+            "artists": [
+                {
+                    "name": "Adele",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/8BCB7066B189F1E561F6A665715EFB1E.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71001075",
+            "title": "Not Afraid",
+            "urlSafeTitle": "Not-Afraid",
+            "year": 2010,
+            "copyright": "(C) 2010 Aftermath Records",
+            "shortUrl": "http://vevo.ly/gNCQID",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/51C55B3743BC3CD2E2ADBBDDC2A29346.jpg",
+            "duration": 259,
+            "releaseDate": "2010-06-05T15:30:00Z",
+            "votes": {
+                "total": 589
+            },
+            "artists": [
+                {
+                    "name": "Eminem",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/9D117A7B47524B2C1BC0930469C910742013278132921882.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USSD21300204",
+            "title": "Propuesta Indecente",
+            "urlSafeTitle": "Propuesta-Indecente",
+            "year": 2013,
+            "copyright": "(C) 2013 Sony Music Entertainment US Latin LLC",
+            "shortUrl": "http://vevo.ly/mQQflM",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/B045F33BA94C888D2D5BB06207D500FB2013259181043692.jpg",
+            "duration": 268.001,
+            "releaseDate": "2013-09-09T22:00:00Z",
+            "votes": {
+                "total": 578
+            },
+            "artists": [
+                {
+                    "name": "Eiza Gonzalez",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/7E118F86771EFC00F49112A3D6D16183.jpg"
+                },
+                {
+                    "name": "Romeo Santos",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/81F67631B64649497091D41DC651FC542014271123013485.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USSM21400908",
+            "title": "All About That Bass",
+            "urlSafeTitle": "All-About-That-Bass",
+            "year": 2014,
+            "copyright": "(C) 2014 Epic Records, a division of Sony Music Entertainment",
+            "shortUrl": "http://vevo.ly/f3lV40",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/67D7C9B52C5B5D1ECAACD0440B978A32201513114226706.jpg",
+            "duration": 189.856,
+            "releaseDate": "2014-06-11T14:00:00Z",
+            "votes": {
+                "total": 572
+            },
+            "artists": [
+                {
+                    "name": "Meghan Trainor",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/2FB90FB6DFEFB172BC0E92F36D38CB0A201436181922460.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USJRV1100051",
+            "title": "Rain Over Me",
+            "urlSafeTitle": "Rain-Over-Me",
+            "year": 2011,
+            "copyright": "(C) 2011 J Records, a unit of Sony Music Entertainment",
+            "shortUrl": "http://vevo.ly/pHoX6d",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/783A9F66FDA69957BE130D979CA9E1F7.jpg",
+            "duration": 233,
+            "releaseDate": "2011-07-22T07:00:00Z",
+            "votes": {
+                "total": 556
+            },
+            "artists": [
+                {
+                    "name": "Marc Anthony",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/7EE0A29104D777BFD15CE905A13907D52013216133432981.png"
+                },
+                {
+                    "name": "Pitbull",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/F2DCFE7A1F6345C11E904ADCF296D549.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USCJY1431460",
+            "title": "Shake It Off",
+            "urlSafeTitle": "Shake-It-Off",
+            "year": 2014,
+            "copyright": "(C) 2014 Big Machine Records, LLC.",
+            "shortUrl": "http://vevo.ly/O2QGie",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/395FAA77D93993D71360310827FFDC482014711164320169.jpg",
+            "duration": 241.62,
+            "releaseDate": "2014-08-18T21:18:00Z",
+            "votes": {
+                "total": 552
+            },
+            "artists": [
+                {
+                    "name": "Taylor Swift",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/ED71D68A2774938BD6B57A39FDD7C1692014179101441933.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "CH3131340061",
+            "title": "Wake Me Up (Official Video)",
+            "urlSafeTitle": "Wake-Me-Up-(Official-Video)",
+            "year": 2013,
+            "copyright": "© 2013",
+            "shortUrl": "http://vevo.ly/oYciw1",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/470AC1327110D3284B02F1A13C33609B2014210162815609.jpg",
+            "duration": 272.44,
+            "releaseDate": "2013-07-29T15:55:00Z",
+            "votes": {
+                "total": 515
+            },
+            "artists": [
+                {
+                    "name": "Avicii",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/FBF72A7D1BF649EB510F07CC8F211AFA.jpg"
+                },
+                {
+                    "name": "Aloe Blacc",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/0FF1B05012071BC596F0EF5520FDD5A4.JPG"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71201766",
+            "title": "Diamonds",
+            "urlSafeTitle": "Diamonds",
+            "year": 2012,
+            "copyright": "(C) 2012 The Island Def Jam Music Group",
+            "shortUrl": "http://vevo.ly/VIiXHk",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/33179A731149ECD1DF3A5E5B06DB300B.png",
+            "duration": 282,
+            "releaseDate": "2012-11-08T23:53:00Z",
+            "votes": {
+                "total": 356
+            },
+            "artists": [
+                {
+                    "name": "Rihanna",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/6A699B7848490BC912E2E25206F41FAA.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USCA31000112",
+            "title": "Firework",
+            "urlSafeTitle": "Firework",
+            "year": 2010,
+            "copyright": "(P) (C) 2010 Capitol Records, LLC. All rights reserved. Unauthorized reproduction is a violation of applicable laws. Manufactured by Capitol Records, LLC, 1750 North Vine Street, Hollywood, CA 90028.",
+            "shortUrl": "http://vevo.ly/id8jwr",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/64F3D2D4D599AB75980302BBB20D4A45.jpg",
+            "duration": 237,
+            "releaseDate": "2010-11-04T11:00:00Z",
+            "votes": {
+                "total": 1532
+            },
+            "artists": [
+                {
+                    "name": "Katy Perry",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/D29F946E54A8B55D42FD7C3C8292FB2920132310151933847.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USRV81300651",
+            "title": "Timber",
+            "urlSafeTitle": "Timber",
+            "year": 2013,
+            "copyright": "(C) 2013 RCA Records, a division of Sony Music Entertainment",
+            "shortUrl": "http://vevo.ly/HwbK4M",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/0C22FCC214D53B0AB18A455B5A7BAA7320132511103635344.jpg",
+            "duration": 214.006,
+            "releaseDate": "2013-11-25T15:00:00Z",
+            "votes": {
+                "total": 518
+            },
+            "artists": [
+                {
+                    "name": "Kesha",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/7F9B7A7C3E304D09551FB85024487929.jpg"
+                },
+                {
+                    "name": "Pitbull",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/F2DCFE7A1F6345C11E904ADCF296D549.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USRV81300234",
+            "title": "We Can't Stop",
+            "urlSafeTitle": "We-Cant-Stop",
+            "year": 2013,
+            "copyright": "(C) 2013 RCA Records, a division of Sony Music Entertainment",
+            "shortUrl": "http://vevo.ly/KSDIgk",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/E549BD2AF9F44F8ECAA77D147177AB852013196102825292.jpg",
+            "duration": 213,
+            "releaseDate": "2013-06-19T15:45:00Z",
+            "votes": {
+                "total": 516
+            },
+            "artists": [
+                {
+                    "name": "Miley Cyrus",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/1B7CD50517771C16575DE40A86B5312420133610055825.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USRV81400135",
+            "title": "Chandelier (Official Video)",
+            "urlSafeTitle": "Chandelier-(Official-Video)",
+            "year": 2014,
+            "copyright": "(C) 2014 Monkey Puzzle Records, under exclusive license to RCA Records",
+            "shortUrl": "http://vevo.ly/UjcwGM",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/DA71CCA64726514CE70AAF5B108BEBC4201571121748428.jpg",
+            "duration": 231.273,
+            "releaseDate": "2014-05-06T13:00:00Z",
+            "votes": {
+                "total": 950
+            },
+            "artists": [
+                {
+                    "name": "Sia",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/2725694DFE9C163A2C34A74810DD3C2420148411027328.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USRV81400003",
+            "title": "Can't Remember to Forget You",
+            "urlSafeTitle": "Cant-Remember-to-Forget-You",
+            "year": 2014,
+            "copyright": "(C) 2014 Ace Entertainment S.ar.l.",
+            "shortUrl": "http://vevo.ly/IY2iYV",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/4DF1822FC89A54DDA1123A28793AB9BA20146210558173.jpg",
+            "duration": 208.208,
+            "releaseDate": "2014-01-31T01:35:00Z",
+            "votes": {
+                "total": 408
+            },
+            "artists": [
+                {
+                    "name": "Shakira",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/DC118EB1EBA6888089B1D0A6E162F4B92014283134412158.jpg"
+                },
+                {
+                    "name": "Rihanna",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/6A699B7848490BC912E2E25206F41FAA.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USCMV1100034",
+            "title": "Super Bass",
+            "urlSafeTitle": "Super-Bass",
+            "year": 2011,
+            "copyright": "(C) 2011 Cash Money Records Inc.",
+            "shortUrl": "http://vevo.ly/lJ471i",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/06D2F132E346ADC64C79F10635186BE7.jpg",
+            "duration": 218,
+            "releaseDate": "2011-05-05T22:26:00Z",
+            "votes": {
+                "total": 472
+            },
+            "artists": [
+                {
+                    "name": "Nicki Minaj",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/3231858819325FD8D84FEE279C8DA83020144818251216.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USSD21300209",
+            "title": "Darte un Beso",
+            "urlSafeTitle": "Darte-un-Beso",
+            "year": 2013,
+            "copyright": "(C) 2013 Sony Music Entertainment US Latin LLC",
+            "shortUrl": "http://vevo.ly/74bPO7",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/AFF084AB9881B49844F8DD53EBB6ECE0201398203545783.jpg",
+            "duration": 210.88,
+            "releaseDate": "2013-08-20T16:00:00Z",
+            "votes": {
+                "total": 471
+            },
+            "artists": [
+                {
+                    "name": "Prince Royce",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/8A39DACAFCC2EF35F6FCEC55682378D2201442134130446.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "GBUV71300528",
+            "title": "La La La",
+            "urlSafeTitle": "La-La-La",
+            "year": 2013,
+            "copyright": "(C) 2013 Naughty Boy Recordings Ltd, under exclusive licence to Virgin Records Ltd",
+            "shortUrl": "http://vevo.ly/3xLK8b",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/ADCC0EDAF683D060F3BF6B15F879E1262013281014042992.png",
+            "duration": 244,
+            "releaseDate": "2013-04-18T23:01:00Z",
+            "votes": {
+                "total": 471
+            },
+            "artists": [
+                {
+                    "name": "Sam Smith",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/E47436492F126B4336EC3D841650CDF52014497473896.png"
+                },
+                {
+                    "name": "Naughty Boy",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/9A5D6ED40F428974AF0D970CB506865F.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71001120",
+            "title": "Never Say Never",
+            "urlSafeTitle": "Never-Say-Never",
+            "year": 2010,
+            "copyright": "(C) 2010 The Island Def Jam Music Group",
+            "shortUrl": "http://vevo.ly/dXJriw",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/2574E962D0676752A248926CE5F26551.jpg",
+            "duration": 233,
+            "releaseDate": "2010-05-31T07:00:00Z",
+            "votes": {
+                "total": 459
+            },
+            "artists": [
+                {
+                    "name": "Jaden Smith",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/42AC0179FB9874A642729030137B5335.jpg"
+                },
+                {
+                    "name": "Justin Bieber",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/D99089E32709E1311B8022F0B72D5410.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71201136",
+            "title": "Beauty And A Beat",
+            "urlSafeTitle": "Beauty-And-A-Beat",
+            "year": 2012,
+            "copyright": "(C) 2012 The Island Def Jam Music Group",
+            "shortUrl": "http://vevo.ly/Qnpv8f",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/3261BE8F3EB014AECD70D8D100440F23.jpg",
+            "duration": 292,
+            "releaseDate": "2012-10-12T15:55:00Z",
+            "votes": {
+                "total": 459
+            },
+            "artists": [
+                {
+                    "name": "Nicki Minaj",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/3231858819325FD8D84FEE279C8DA83020144818251216.jpg"
+                },
+                {
+                    "name": "Justin Bieber",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/D99089E32709E1311B8022F0B72D5410.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "GBUV71400261",
+            "title": "Fancy (Explicit)",
+            "urlSafeTitle": "Fancy-(Explicit)",
+            "year": 2014,
+            "copyright": "(C) 2014 Virgin EMI Records, a division of Universal Music Operations Limited",
+            "shortUrl": "http://vevo.ly/dIx8gw",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/417200D766A4C2E34A1CC9E2E49D400120144310163716.jpg",
+            "duration": 204.288,
+            "releaseDate": "2014-03-04T16:00:00Z",
+            "votes": {
+                "total": 548
+            },
+            "artists": [
+                {
+                    "name": "Iggy Azalea",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/7D460D9E214AE13F1DE3EEDA79FCA4C2.jpg"
+                },
+                {
+                    "name": "Charli XCX",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/31BB4A15FD80616F9E6E999D97154B492014433499858.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USCJY1431509",
+            "title": "Blank Space",
+            "urlSafeTitle": "Blank-Space",
+            "year": 2014,
+            "copyright": "(C) 2014 Big Machine Records, LLC.",
+            "shortUrl": "http://vevo.ly/ztMBny",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/772512FD987741A699CD900C2E30697F2014101111454574.jpg",
+            "duration": 272.397,
+            "releaseDate": "2014-11-10T08:00:00Z",
+            "votes": {
+                "total": 456
+            },
+            "artists": [
+                {
+                    "name": "Taylor Swift",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/ED71D68A2774938BD6B57A39FDD7C1692014179101441933.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USRV81400102",
+            "title": "La La La (Brazil 2014)",
+            "urlSafeTitle": "La-La-La-(Brazil-2014)",
+            "year": 2014,
+            "copyright": "(C) 2014 Ace Entertainment S.ar.l.",
+            "shortUrl": "http://vevo.ly/69pJCW",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/3A3CDF557548D838AB08C8D5F9CC834E201422585554569.jpg",
+            "duration": 210.32,
+            "releaseDate": "2014-05-22T11:00:00Z",
+            "votes": {
+                "total": 456
+            },
+            "artists": [
+                {
+                    "name": "Shakira",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/DC118EB1EBA6888089B1D0A6E162F4B92014283134412158.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "GB1411100077",
+            "title": "Someone Like You",
+            "urlSafeTitle": "Someone-Like-You",
+            "year": 2011,
+            "copyright": "(C) 2011 XL Recordings Ltd",
+            "shortUrl": "http://vevo.ly/rtoGpR",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/0D456A93027C7B14E0F0432276CF5DD3.jpg",
+            "duration": 284.88,
+            "releaseDate": "2011-09-29T23:56:00Z",
+            "votes": {
+                "total": 446
+            },
+            "artists": [
+                {
+                    "name": "Adele",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/8BCB7066B189F1E561F6A665715EFB1E.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71201859",
+            "title": "Scream & Shout",
+            "urlSafeTitle": "Scream-Shout",
+            "year": 2012,
+            "copyright": "© 2012 Interscope",
+            "shortUrl": "http://vevo.ly/Tu42P6",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/F0BC1AD78FA1CAC54890EA2AC0D66418.jpg",
+            "duration": 291,
+            "releaseDate": "2012-11-29T02:50:00Z",
+            "votes": {
+                "total": 445
+            },
+            "artists": [
+                {
+                    "name": "Britney Spears",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/EDC8B2FEAF0E9A7471B1BD846EEC4FFC20132410101351952.jpg"
+                },
+                {
+                    "name": "will.i.am",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/9D7DA55736159E49D2D0D2DB7C4F447E2013176175024404.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USCA31100045",
+            "title": "Last Friday Night (T.G.I.F.)",
+            "urlSafeTitle": "Last-Friday-Night-(TGIF)",
+            "year": 2011,
+            "copyright": "(P) (C) 2011 Capitol Records, LLC. All rights reserved. Unauthorized reproduction is a violation of applicable laws. Manufactured by Capitol Records, LLC, 1750 North Vine Street, Hollywood, CA 90028.",
+            "shortUrl": "http://vevo.ly/jWqkWC",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/648914EA15D34F3967E2DE3C2D8CE4F9.jpg",
+            "duration": 490,
+            "releaseDate": "2011-06-12T23:00:00Z",
+            "votes": {
+                "total": 414
+            },
+            "artists": [
+                {
+                    "name": "Katy Perry",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/D29F946E54A8B55D42FD7C3C8292FB2920132310151933847.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USH5V0920900",
+            "title": "Party In The U.S.A.",
+            "urlSafeTitle": "Party-In-The-USA",
+            "year": 2009,
+            "copyright": "",
+            "shortUrl": "http://vevo.ly/gQh99Z",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/A0704CE9357A428B53BE3815F84983552014109133228402.jpg",
+            "duration": 201,
+            "releaseDate": "2010-12-15T08:00:00Z",
+            "votes": {
+                "total": 440
+            },
+            "artists": [
+                {
+                    "name": "Miley Cyrus",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/1B7CD50517771C16575DE40A86B5312420133610055825.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71101839",
+            "title": "We Found Love",
+            "urlSafeTitle": "We-Found-Love",
+            "year": 2011,
+            "copyright": "(C) 2011 The Island Def Jam Music Group",
+            "shortUrl": "http://vevo.ly/oiQ0vE",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/66AEB9CF0ACC73895B7F6B15C0837112.jpg",
+            "duration": 275,
+            "releaseDate": "2011-10-19T07:00:00Z",
+            "votes": {
+                "total": 843
+            },
+            "artists": [
+                {
+                    "name": "Rihanna",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/6A699B7848490BC912E2E25206F41FAA.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "GBUV71300663",
+            "title": "Burn",
+            "urlSafeTitle": "Burn",
+            "year": 2013,
+            "copyright": "(C) 2013 Polydor Ltd. (UK)",
+            "shortUrl": "http://vevo.ly/Es2h22",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/0A5789376D91479D71071B416387BD502013221117820847.jpg",
+            "duration": 238,
+            "releaseDate": "2013-07-07T23:00:00Z",
+            "votes": {
+                "total": 435
+            },
+            "artists": [
+                {
+                    "name": "Ellie Goulding",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/FBC1F6E31316179949F139626C6D653E201397185147953.JPG"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "NZUV71300005",
+            "title": "Royals (US Version)",
+            "urlSafeTitle": "Royals-(US-Version)",
+            "year": 2013,
+            "copyright": "(C) 2013 Universal Music NZ Ltd.",
+            "shortUrl": "http://vevo.ly/fm0XW5",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/0447FB9251D7EBD7EF16FB675951D40820131961749219.jpeg",
+            "duration": 200,
+            "releaseDate": "2013-06-14T02:00:00Z",
+            "votes": {
+                "total": 426
+            },
+            "artists": [
+                {
+                    "name": "Lorde",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/5117509230BBC93F49769EF24554B786201327694935864.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USJRV1100012",
+            "title": "Give Me Everything",
+            "urlSafeTitle": "Give-Me-Everything",
+            "year": 2011,
+            "copyright": "(C) 2011 J Records, a unit of Sony Music Entertainment",
+            "shortUrl": "http://vevo.ly/mi0gXX",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/9D3E00806DFA597CC66A63EDD53DBE13.jpg",
+            "duration": 266,
+            "releaseDate": "2011-05-09T07:00:00Z",
+            "votes": {
+                "total": 419
+            },
+            "artists": [
+                {
+                    "name": "NE-YO",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/F323E6E0006619E454B494C58065FF1C201481012553127.jpeg"
+                },
+                {
+                    "name": "Afrojack",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/84350B1EBB4F56574387EB0DFF422A77.jpg"
+                },
+                {
+                    "name": "Pitbull",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/F2DCFE7A1F6345C11E904ADCF296D549.jpg"
+                },
+                {
+                    "name": "Nayer",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/453912AC79C0C5FE6389CBB354819D57.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71002221",
+            "title": "What's My Name?",
+            "urlSafeTitle": "Whats-My-Name",
+            "year": 2010,
+            "copyright": "(C) 2010 The Island Def Jam Music Group",
+            "shortUrl": "http://vevo.ly/eBguVB",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/4DDAAFC8558F89F20CB362E9E9C125B2.jpg",
+            "duration": 263,
+            "releaseDate": "2010-11-12T08:00:00Z",
+            "votes": {
+                "total": 441
+            },
+            "artists": [
+                {
+                    "name": "Rihanna",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/6A699B7848490BC912E2E25206F41FAA.jpeg"
+                },
+                {
+                    "name": "Drake",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/0A4AFB097687094FB21B7B2F50082B49.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71400762",
+            "title": "Problem",
+            "urlSafeTitle": "Problem",
+            "year": 2014,
+            "copyright": "(C) 2014 Republic Records",
+            "shortUrl": "http://vevo.ly/BHpIgT",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/032461C89EAD01A392BDAD156CE95FC6201430512122207.jpg",
+            "duration": 207.124,
+            "releaseDate": "2014-05-30T20:00:00Z",
+            "votes": {
+                "total": 408
+            },
+            "artists": [
+                {
+                    "name": "Ariana Grande",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/1019551154F82CA501AAF8693FA533792014310125113789.JPG"
+                },
+                {
+                    "name": "Iggy Azalea",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/7D460D9E214AE13F1DE3EEDA79FCA4C2.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USRV81100285",
+            "title": "International Love",
+            "urlSafeTitle": "International-Love",
+            "year": 2011,
+            "copyright": "(C) 2011 RCA Records, a unit of Sony Music Entertainment",
+            "shortUrl": "http://vevo.ly/sH7gR0",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/BEFDA5DA56AB716B2B02EE0AE2F4B9812014109141356822.png",
+            "duration": 248,
+            "releaseDate": "2011-12-10T08:00:00Z",
+            "votes": {
+                "total": 48
+            },
+            "artists": [
+                {
+                    "name": "Chris Brown",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/A0437C8E542A9CF4E8F4AA4A01EE1B602014276171836466.jpg"
+                },
+                {
+                    "name": "Pitbull",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/F2DCFE7A1F6345C11E904ADCF296D549.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV70901803",
+            "title": "One Time",
+            "urlSafeTitle": "One-Time",
+            "year": 2009,
+            "copyright": "(C) 2009 The Island Def Jam Music Group",
+            "shortUrl": "http://vevo.ly/hMriyr",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/459D82F2749B29D12ED743B9F6DE748B.jpg",
+            "duration": 242,
+            "releaseDate": "2009-06-17T07:00:00Z",
+            "votes": {
+                "total": 329
+            },
+            "artists": [
+                {
+                    "name": "Justin Bieber",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/D99089E32709E1311B8022F0B72D5410.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USCMV1400044",
+            "title": "Anaconda",
+            "urlSafeTitle": "Anaconda",
+            "year": 2014,
+            "copyright": "©: Cash Money Records Inc.",
+            "shortUrl": "http://vevo.ly/Pf9T2K",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/49C602543707163B64E5DBCEBFBF7A4E20141512134342425.jpg",
+            "duration": 289.622,
+            "releaseDate": "2014-08-20T03:59:00Z",
+            "votes": {
+                "total": 391
+            },
+            "artists": [
+                {
+                    "name": "Nicki Minaj",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/3231858819325FD8D84FEE279C8DA83020144818251216.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71200411",
+            "title": "Boyfriend",
+            "urlSafeTitle": "Boyfriend",
+            "year": 2012,
+            "copyright": "(C) 2012 The Island Def Jam Music Group",
+            "shortUrl": "http://vevo.ly/K4loPr",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/3EE252F56D1693CEA86ACBCB24D42033.jpg",
+            "duration": 210,
+            "releaseDate": "2012-05-03T23:50:00Z",
+            "votes": {
+                "total": 388
+            },
+            "artists": [
+                {
+                    "name": "Justin Bieber",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/D99089E32709E1311B8022F0B72D5410.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71002973",
+            "title": "Price Tag",
+            "urlSafeTitle": "Price-Tag",
+            "year": 2010,
+            "copyright": "(C) 2010 Universal Republic Records",
+            "shortUrl": "http://vevo.ly/f2UWZC",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/E12985AEE10E133419515473E1ECEDC0201414211482539.jpg",
+            "duration": 252,
+            "releaseDate": "2011-01-30T00:00:00Z",
+            "votes": {
+                "total": 386
+            },
+            "artists": [
+                {
+                    "name": "B.o.B",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/0C3965C86659133DBDCF1C6D22E2E7A1.jpg"
+                },
+                {
+                    "name": "Jessie J",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/7C9AA305275E6C7B01AC54291F2F0C5E201411913383969.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USCJY0903499",
+            "title": "You Belong With Me",
+            "urlSafeTitle": "You-Belong-With-Me",
+            "year": 2009,
+            "copyright": "(C) 2009 Big Machine Records, LLC",
+            "shortUrl": "http://vevo.ly/JY9ylK",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/566C0FD1509DB0CF073D827759561D0D.jpg",
+            "duration": 234,
+            "releaseDate": "2009-05-05T07:00:00Z",
+            "votes": {
+                "total": 386
+            },
+            "artists": [
+                {
+                    "name": "Taylor Swift",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/ED71D68A2774938BD6B57A39FDD7C1692014179101441933.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71302231",
+            "title": "23 (Explicit)",
+            "urlSafeTitle": "23-(Explicit)",
+            "year": 2013,
+            "copyright": "(C) 2013 Interscope Records",
+            "shortUrl": "http://vevo.ly/HoHisv",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/104DB7713264868188AB37B05650F8A62013239232011551.jpg",
+            "duration": 317.442,
+            "releaseDate": "2013-09-24T15:40:00Z",
+            "votes": {
+                "total": 383
+            },
+            "artists": [
+                {
+                    "name": "Miley Cyrus",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/1B7CD50517771C16575DE40A86B5312420133610055825.jpg"
+                },
+                {
+                    "name": "Mike WiLL Made-It",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/E136D27A0521375256E21D85A99B217F201323911339799.jpeg"
+                },
+                {
+                    "name": "Wiz Khalifa",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/B4A411217AF954EEE9040251223896C3.jpg"
+                },
+                {
+                    "name": "Juicy J",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/8D0CBF8BFEA8BF0FB4F6F9C8E3C9E7A2.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "CAV171300005",
+            "title": "Rude",
+            "urlSafeTitle": "Rude",
+            "year": 2013,
+            "copyright": "(C) 2013 Sony Music Entertainment International Limited",
+            "shortUrl": "http://vevo.ly/OqhXWP",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/A8FAB410A411328A253A21905D70890A2013412163634286.jpg",
+            "duration": 225.35,
+            "releaseDate": "2013-12-06T05:01:00Z",
+            "votes": {
+                "total": 383
+            },
+            "artists": [
+                {
+                    "name": "MAGIC!",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/7F28DCCC923F475D75E610BFAD31EA8A20143611442993.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USSM21302088",
+            "title": "All of Me",
+            "urlSafeTitle": "All-of-Me",
+            "year": 2013,
+            "copyright": "(C) 2013 Getting Out Our Dreams and Columbia Records, a Division of Sony Music Entertainment",
+            "shortUrl": "http://vevo.ly/vLqTlx",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/98E0519F1B8275A363520D078295E687201422213621629.jpg",
+            "duration": 307.14,
+            "releaseDate": "2013-10-02T14:00:00Z",
+            "votes": {
+                "total": 38
+            },
+            "artists": [
+                {
+                    "name": "John Legend",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/02E9762B653A25BCCAE115FC1A7F46F9.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71002023",
+            "title": "Only Girl (In The World)",
+            "urlSafeTitle": "Only-Girl-(In-The-World)",
+            "year": 2010,
+            "copyright": "(C) 2010 The Island Def Jam Music Group",
+            "shortUrl": "http://vevo.ly/fJUSIM",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/28BC849D7A1D394707A2AD78F1765A84.jpg",
+            "duration": 250,
+            "releaseDate": "2010-10-13T07:00:00Z",
+            "votes": {
+                "total": 830
+            },
+            "artists": [
+                {
+                    "name": "Rihanna",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/6A699B7848490BC912E2E25206F41FAA.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "GB1101100879",
+            "title": "One Thing",
+            "urlSafeTitle": "One-Thing",
+            "year": 2012,
+            "copyright": "(C) 2012 Simco Limited under exclusive license to Sony Music Entertainment UK Limited",
+            "shortUrl": "http://vevo.ly/xrvrgC",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/B22DDBE72DC63826B64E79E15F884BDA.jpg",
+            "duration": 197.64,
+            "releaseDate": "2012-01-13T16:00:00Z",
+            "votes": {
+                "total": 373
+            },
+            "artists": [
+                {
+                    "name": "One Direction",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/3747B1DAF8EA02BD2171F0EF5B4DCFC9201421107597101.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71300454",
+            "title": "Blurred Lines",
+            "urlSafeTitle": "Blurred-Lines",
+            "year": 2013,
+            "copyright": "(C) 2013 Star Trak, LLC",
+            "shortUrl": "http://vevo.ly/XnUWC8",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/4DCDEE6D77B9D0B45ABA385251DB7177.jpg",
+            "duration": 272,
+            "releaseDate": "2013-03-21T07:00:00Z",
+            "votes": {
+                "total": 317
+            },
+            "artists": [
+                {
+                    "name": "T.I.",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/2DE720CF65D2B89CE999A1499D24B2EC201449175526752.jpg"
+                },
+                {
+                    "name": "Pharrell Williams",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/1FDB2F0754F557090BA20163E9911CC0201419216383673.jpg"
+                },
+                {
+                    "name": "Robin Thicke",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/76CBCDF3837C9B5B89FD8DA1DF1F2B56201330714414123.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "GB1101400141",
+            "title": "Summer",
+            "urlSafeTitle": "Summer",
+            "year": 2014,
+            "copyright": "(C) 2014 Sony Music Entertainment UK Limited",
+            "shortUrl": "http://vevo.ly/cb2Uf8",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/3938078E3E4BBD950C376952A2E5346E201528145513122.jpg",
+            "duration": 233.859,
+            "releaseDate": "2014-04-06T23:00:00Z",
+            "votes": {
+                "total": 370
+            },
+            "artists": [
+                {
+                    "name": "Calvin Harris",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/339C6BD69774717267F4DF7952D7CABB20132310115710235.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USRV81200480",
+            "title": "Just Give Me A Reason",
+            "urlSafeTitle": "Just-Give-Me-A-Reason",
+            "year": 2012,
+            "copyright": "(C) 2012 RCA Records, a division of Sony Music Entertainment",
+            "shortUrl": "http://vevo.ly/Y6nWNY",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/2AE28106A3D1BA3ED929D1F964B6D16F.jpg",
+            "duration": 242,
+            "releaseDate": "2013-02-05T22:00:00Z",
+            "votes": {
+                "total": 366
+            },
+            "artists": [
+                {
+                    "name": "P!nk",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/B4D827D0CB62C629245640EE745BCD7F.jpg"
+                },
+                {
+                    "name": "Nate Ruess",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/6FC8B1ADAA043C3C87D78C330996DC57.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71300019",
+            "title": "Stay",
+            "urlSafeTitle": "Stay",
+            "year": 2013,
+            "copyright": "(C) 2013 The Island Def Jam Music Group",
+            "shortUrl": "http://vevo.ly/XomQAj",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/670DBA556C606BFFB454FCE989BF87B3.jpg",
+            "duration": 247,
+            "releaseDate": "2013-02-12T12:55:00Z",
+            "votes": {
+                "total": 366
+            },
+            "artists": [
+                {
+                    "name": "Mikky Ekko",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/E36684F03025562852D3447DC7C9B0202014307132026323.jpg"
+                },
+                {
+                    "name": "Rihanna",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/6A699B7848490BC912E2E25206F41FAA.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "GB1101200812",
+            "title": "Live While We're Young",
+            "urlSafeTitle": "Live-While-Were-Young",
+            "year": 2012,
+            "copyright": "(C) 2012 Simco Limited under exclusive license to Sony Music Entertainment UK Limited",
+            "shortUrl": "http://vevo.ly/O3u3o3",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/3F34A47D3ED52D496F4DA5D2738F47D4.jpg",
+            "duration": 197.76,
+            "releaseDate": "2012-09-20T17:00:00Z",
+            "votes": {
+                "total": 362
+            },
+            "artists": [
+                {
+                    "name": "One Direction",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/3747B1DAF8EA02BD2171F0EF5B4DCFC9201421107597101.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USSM20803009",
+            "title": "Single Ladies (Put a Ring on It)",
+            "urlSafeTitle": "Single-Ladies-(Put-a-Ring-on-It)",
+            "year": 2008,
+            "copyright": "(C) 2008 SONY BMG MUSIC ENTERTAINMENT",
+            "shortUrl": "http://vevo.ly/eqnqDL",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/1215DF850A38ECAE1DDD955E9164FD95.jpg",
+            "duration": 198,
+            "releaseDate": "2008-10-15T07:00:00Z",
+            "votes": {
+                "total": 357
+            },
+            "artists": [
+                {
+                    "name": "Beyoncé",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/018A52ECAFA76F12C8A6A7286D24FAB92014306122124737.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USRV81400057",
+            "title": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (Olodum Mix)",
+            "urlSafeTitle": "We-Are-One-(Ole-Ola)-The-Official-2014-FIFA-World-Cup-Song-(Olodum-Mix)",
+            "year": 2014,
+            "copyright": "(C) 2014 RCA Records, a division of Sony Music Entertainment",
+            "shortUrl": "http://vevo.ly/xiolsw",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/D9E5B85DECFD9C5C525EB0F98E97776D20142511201018806.jpg",
+            "duration": 245.787,
+            "releaseDate": "2014-05-16T14:00:00Z",
+            "votes": {
+                "total": 341
+            },
+            "artists": [
+                {
+                    "name": "Jennifer Lopez",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/045F0B5817E0E32B2D7DADEC33634F0D201453154651277.jpg"
+                },
+                {
+                    "name": "Pitbull",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/F2DCFE7A1F6345C11E904ADCF296D549.jpg"
+                },
+                {
+                    "name": "Claudia Leitte",
+                    "role": "Featured"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USCA31200061",
+            "title": "Wide Awake",
+            "urlSafeTitle": "Wide-Awake",
+            "year": 2012,
+            "copyright": "(P) (C) 2012 Capitol Records, LLC. All rights reserved. Unauthorized reproduction is a violation of applicable laws. Manufactured by Capitol Records, LLC, 1750 North Vine Street, Hollywood, CA 90028.",
+            "shortUrl": "http://vevo.ly/LQBIT4",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/4503D16F6236DB2B27A75D12E73C82FA.jpg",
+            "duration": 276,
+            "releaseDate": "2012-06-27T00:00:00Z",
+            "votes": {
+                "total": 340
+            },
+            "artists": [
+                {
+                    "name": "Katy Perry",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/D29F946E54A8B55D42FD7C3C8292FB2920132310151933847.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USIV20300654",
+            "title": "November Rain",
+            "urlSafeTitle": "November-Rain",
+            "year": 1992,
+            "copyright": "(C) 1992 Geffen Records",
+            "shortUrl": "http://vevo.ly/fPVS2g",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/1755D42D23EA8F0A34FBBAA4349ECBA1.jpg",
+            "duration": 556,
+            "releaseDate": "2007-05-18T07:00:00Z",
+            "votes": {
+                "total": 343
+            },
+            "artists": [
+                {
+                    "name": "Guns N' Roses",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/5F3DB0001FCC4A81CC111F01EFAF1964.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71200752",
+            "title": "One More Night",
+            "urlSafeTitle": "One-More-Night",
+            "year": 2012,
+            "copyright": "(C) 2012 Interscope Records",
+            "shortUrl": "http://vevo.ly/LpJMqh",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/5F856E64406EA5FBADEA90B580423B4E.jpg",
+            "duration": 223,
+            "releaseDate": "2012-06-26T16:00:00Z",
+            "votes": {
+                "total": 333
+            },
+            "artists": [
+                {
+                    "name": "Adam Levine",
+                    "role": "Associated",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/BB4C430E7E008B44D876C829BF55D165.jpg"
+                },
+                {
+                    "name": "Maroon 5",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/0E3002DEFAE95359093088A827B7A5B32014379133893.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USNPD1200129",
+            "title": "Limbo",
+            "urlSafeTitle": "Limbo",
+            "year": 2012,
+            "copyright": "",
+            "shortUrl": "http://vevo.ly/S3320b",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/003C79B281E7E8FB7A54DD910F4ECB15.jpg",
+            "duration": 256,
+            "releaseDate": "2012-10-29T15:40:00Z",
+            "votes": {
+                "total": 323
+            },
+            "artists": [
+                {
+                    "name": "Daddy Yankee",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/A97B27FA673FE7561162E9A442F4367920133110123824893.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "GB1101300630",
+            "title": "Story of My Life",
+            "urlSafeTitle": "Story-of-My-Life",
+            "year": 2013,
+            "copyright": "(C) 2013 Simco Limited under exclusive license to Sony Music Entertainment UK Limited",
+            "shortUrl": "http://vevo.ly/al24m0",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/7FF6FDD0C0DB2B3A67458FE77A532DCA2013411124435622.jpg",
+            "duration": 247.6,
+            "releaseDate": "2013-11-03T16:00:00Z",
+            "votes": {
+                "total": 331
+            },
+            "artists": [
+                {
+                    "name": "One Direction",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/3747B1DAF8EA02BD2171F0EF5B4DCFC9201421107597101.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USCMV1100078",
+            "title": "Mirror",
+            "urlSafeTitle": "Mirror",
+            "year": 2012,
+            "copyright": "(C) 2012 Cash Money Records Inc.",
+            "shortUrl": "http://vevo.ly/wivtPF",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/68E6D17C16DC410AB7C32CF64E46A1E3.jpg",
+            "duration": 242,
+            "releaseDate": "2012-01-31T18:30:00Z",
+            "votes": {
+                "total": 327
+            },
+            "artists": [
+                {
+                    "name": "Lil Wayne",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/7C8B2C8597094343C78330136DC3F50E.jpg"
+                },
+                {
+                    "name": "Bruno Mars",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/1FD695D697377F064DBD7D908B645EDC.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71101468",
+            "title": "Sexy and I Know It",
+            "urlSafeTitle": "Sexy-and-I-Know-It",
+            "year": 2011,
+            "copyright": "(C) 2011 Foo & Blu, LLC under exclusive License to Interscope Records",
+            "shortUrl": "http://vevo.ly/q3w2LW",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/968E07DE8E03B16F348C5CBAA473AE55.jpg",
+            "duration": 204,
+            "releaseDate": "2011-09-16T07:00:00Z",
+            "votes": {
+                "total": 325
+            },
+            "artists": [
+                {
+                    "name": "LMFAO",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/9F28259D413B673A92EBC605157BA436.jpg"
+                },
+                {
+                    "name": "Redfoo",
+                    "role": "Associated",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/EA1A524E997510810424EDA35A9C4E9F20131510121928946.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USCA31100006",
+            "title": "E.T.",
+            "urlSafeTitle": "ET",
+            "year": 2011,
+            "copyright": "(P) (C) 2011 Capitol Records, LLC. All rights reserved. Unauthorized reproduction is a violation of applicable laws. Manufactured by Capitol Records, LLC, 1750 North Vine Street, Hollywood, CA 90028.",
+            "shortUrl": "http://vevo.ly/gp4rGA",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/4DAB81A18B3CA94F3D03C7DB8315ACC9.jpg",
+            "duration": 321,
+            "releaseDate": "2011-03-31T15:58:00Z",
+            "votes": {
+                "total": 1323
+            },
+            "artists": [
+                {
+                    "name": "Kanye West",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/FB8D3ABB3CA1D1B9561331D9F3A0DED4.jpg"
+                },
+                {
+                    "name": "Katy Perry",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/D29F946E54A8B55D42FD7C3C8292FB2920132310151933847.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "GB1101300363",
+            "title": "Best Song Ever",
+            "urlSafeTitle": "Best-Song-Ever",
+            "year": 2013,
+            "copyright": "(C) 2013 Simco Limited under exclusive license to Sony Music Entertainment UK Limited",
+            "shortUrl": "http://vevo.ly/5vEkAx",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/0EDB3E5DAD1C91651CECEAD88EDBDE222013227233820435.jpg",
+            "duration": 372.789,
+            "releaseDate": "2013-07-22T17:10:00Z",
+            "votes": {
+                "total": 321
+            },
+            "artists": [
+                {
+                    "name": "One Direction",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/3747B1DAF8EA02BD2171F0EF5B4DCFC9201421107597101.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USH5V1321697",
+            "title": "Come & Get It",
+            "urlSafeTitle": "Come-Get-It",
+            "year": 2013,
+            "copyright": "(C) 2013 Hollywood Records, Inc.",
+            "shortUrl": "http://vevo.ly/9UyOO1",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/1D649EA39DD7949614D9F5E8DFF8ADFF.jpg",
+            "duration": 289,
+            "releaseDate": "2013-05-07T23:53:00Z",
+            "votes": {
+                "total": 320
+            },
+            "artists": [
+                {
+                    "name": "Selena Gomez",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/E15FB16AE910F56538E9682E0410977A.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USWV21322450",
+            "title": "Let It Go (from \"Frozen\") [Official]",
+            "urlSafeTitle": "Let-It-Go-(from-Frozen)-Official",
+            "year": 2013,
+            "copyright": "(C) 2013 Walt Disney Records",
+            "shortUrl": "http://vevo.ly/UL0urd",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/1904230C5D32FCC72AEFB627CAC56081201491020953112.jpg",
+            "duration": 230.106,
+            "releaseDate": "2013-11-01T11:00:00Z",
+            "votes": {
+                "total": 315
+            },
+            "artists": [
+                {
+                    "name": "Demi Lovato",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/B63D91DC0987EB955A182BB99407372C201551124022872.png"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USSM21200454",
+            "title": "Dance Again",
+            "urlSafeTitle": "Dance-Again",
+            "year": 2012,
+            "copyright": "(C) 2012 Epic Records, a division of Sony Music Entertainment",
+            "shortUrl": "http://vevo.ly/HpqYbm",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/F4C418F47E4017F9A5AE2B087E0C8B70.jpg",
+            "duration": 266,
+            "releaseDate": "2012-04-06T01:00:00Z",
+            "votes": {
+                "total": 314
+            },
+            "artists": [
+                {
+                    "name": "Jennifer Lopez",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/045F0B5817E0E32B2D7DADEC33634F0D201453154651277.jpg"
+                },
+                {
+                    "name": "Pitbull",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/F2DCFE7A1F6345C11E904ADCF296D549.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71100705",
+            "title": "Man Down",
+            "urlSafeTitle": "Man-Down",
+            "year": 2011,
+            "copyright": "(C) 2011 The Island Def Jam Music Group",
+            "shortUrl": "http://vevo.ly/iQQZpU",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/C9AC06CB200289F82576EEF140E0E2CC.jpg",
+            "duration": 339,
+            "releaseDate": "2011-06-08T07:00:00Z",
+            "votes": {
+                "total": 309
+            },
+            "artists": [
+                {
+                    "name": "Rihanna",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/6A699B7848490BC912E2E25206F41FAA.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71200070",
+            "title": "Where Have You Been",
+            "urlSafeTitle": "Where-Have-You-Been",
+            "year": 2012,
+            "copyright": "(C) 2012 The Island Def Jam Music Group",
+            "shortUrl": "http://vevo.ly/IpwxKy",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/605A0B8780B38EE644685CCED2DE0E8E.jpg",
+            "duration": 268,
+            "releaseDate": "2012-04-30T12:56:00Z",
+            "votes": {
+                "total": 296
+            },
+            "artists": [
+                {
+                    "name": "Rihanna",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/6A699B7848490BC912E2E25206F41FAA.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71001253",
+            "title": "Somebody To Love Remix",
+            "urlSafeTitle": "Somebody-To-Love-Remix",
+            "year": 2010,
+            "copyright": "(C) 2010 The Island Def Jam Music Group",
+            "shortUrl": "http://vevo.ly/ho9STz",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/C699C09C60845463F3722E17DF38DE0C.jpg",
+            "duration": 218,
+            "releaseDate": "2010-06-18T00:00:00Z",
+            "votes": {
+                "total": 296
+            },
+            "artists": [
+                {
+                    "name": "Usher",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/CC2017B04309DA0A2E7D94B76FC2552B20145514815978.jpg"
+                },
+                {
+                    "name": "Justin Bieber",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/D99089E32709E1311B8022F0B72D5410.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71000073",
+            "title": "Rude Boy",
+            "urlSafeTitle": "Rude-Boy",
+            "year": 2010,
+            "copyright": "(C) 2010 The Island Def Jam Music Group",
+            "shortUrl": "http://vevo.ly/dVViJa",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/629DB556413E41CC69B2F8A659A60A6A.jpg",
+            "duration": 229,
+            "releaseDate": "2010-02-11T08:00:00Z",
+            "votes": {
+                "total": 529
+            },
+            "artists": [
+                {
+                    "name": "Rihanna",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/6A699B7848490BC912E2E25206F41FAA.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USZM21100027",
+            "title": "Look At Me Now",
+            "urlSafeTitle": "Look-At-Me-Now",
+            "year": 2011,
+            "copyright": "(C) 2011 JIVE Records, a unit of Sony Music Entertainment",
+            "shortUrl": "http://vevo.ly/dYS7NH",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/9F673444B0122FE65D19226CF3582AA7.jpg",
+            "duration": 248,
+            "releaseDate": "2011-03-11T08:00:00Z",
+            "votes": {
+                "total": 249
+            },
+            "artists": [
+                {
+                    "name": "Lil Wayne",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/7C8B2C8597094343C78330136DC3F50E.jpg"
+                },
+                {
+                    "name": "Busta Rhymes",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/544A0E8B86AEFCEBFE195449B31C27F4.jpg"
+                },
+                {
+                    "name": "Chris Brown",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/A0437C8E542A9CF4E8F4AA4A01EE1B602014276171836466.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71201720",
+            "title": "Radioactive",
+            "urlSafeTitle": "Radioactive",
+            "year": 2012,
+            "copyright": "(C) 2012 KIDinaKORNER/Interscope Records",
+            "shortUrl": "http://vevo.ly/RMz1qA",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/53D9CA4DDE708EDE2656A04FFA6CE175201316111459362.jpg",
+            "duration": 261,
+            "releaseDate": "2012-12-14T08:00:00Z",
+            "votes": {
+                "total": 291
+            },
+            "artists": [
+                {
+                    "name": "Imagine Dragons",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/B51B2C4E7FE295B7E0D57736CAD0B21C2014271073512833.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USH5V1321659",
+            "title": "Heart Attack",
+            "urlSafeTitle": "Heart-Attack",
+            "year": 2013,
+            "copyright": "(C) 2013 Hollywood Records, Inc.",
+            "shortUrl": "http://vevo.ly/ZiPGX5",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/4EC070B42014DC6BB9670990FF95C93C.jpg",
+            "duration": 215,
+            "releaseDate": "2013-04-09T07:00:00Z",
+            "votes": {
+                "total": 278
+            },
+            "artists": [
+                {
+                    "name": "Demi Lovato",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/B63D91DC0987EB955A182BB99407372C201551124022872.png"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USCA31100129",
+            "title": "The One That Got Away",
+            "urlSafeTitle": "The-One-That-Got-Away",
+            "year": 2011,
+            "copyright": "(P) (C) 2011 Capitol Records, LLC. All rights reserved. Unauthorized reproduction is a violation of applicable laws. Manufactured by Capitol Records, LLC, 1750 North Vine Street, Hollywood, CA 90028.",
+            "shortUrl": "http://vevo.ly/saFNDz",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/93648E733DE0CF8F43C91847B89E51AB.jpg",
+            "duration": 290,
+            "releaseDate": "2011-11-11T08:00:00Z",
+            "votes": {
+                "total": 286
+            },
+            "artists": [
+                {
+                    "name": "Katy Perry",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/D29F946E54A8B55D42FD7C3C8292FB2920132310151933847.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USCA31200008",
+            "title": "Part Of Me",
+            "urlSafeTitle": "Part-Of-Me",
+            "year": 2012,
+            "copyright": "(P) (C) 2012 Capitol Records, LLC. All rights reserved. Unauthorized reproduction is a violation of applicable laws. Manufactured by Capitol Records, LLC, 1750 North Vine Street, Hollywood, CA 90028.",
+            "shortUrl": "http://vevo.ly/GAqNvF",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/73AB744B593333575DD42E1FB97FA8CA.jpg",
+            "duration": 251,
+            "releaseDate": "2012-03-21T23:18:00Z",
+            "votes": {
+                "total": 282
+            },
+            "artists": [
+                {
+                    "name": "Katy Perry",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/D29F946E54A8B55D42FD7C3C8292FB2920132310151933847.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71401423",
+            "title": "Break Free",
+            "urlSafeTitle": "Break-Free",
+            "year": 2014,
+            "copyright": "(C) 2014 Republic Records, a division of UMG Recordings, Inc.",
+            "shortUrl": "http://vevo.ly/tTVDQK",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/0F05763151C8B1DC24EB42B4A30CF31C2014128183347569.jpg",
+            "duration": 247.915,
+            "releaseDate": "2014-08-13T00:55:00Z",
+            "votes": {
+                "total": 821
+            },
+            "artists": [
+                {
+                    "name": "Zedd",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/819E7B8BC9AB3F9E5374691D9B628EAB201310915537741.jpg"
+                },
+                {
+                    "name": "Ariana Grande",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/1019551154F82CA501AAF8693FA533792014310125113789.JPG"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USCJY1231050",
+            "title": "We Are Never Ever Getting Back Together",
+            "urlSafeTitle": "We-Are-Never-Ever-Getting-Back-Together",
+            "year": 2012,
+            "copyright": "(C) 2012 Big Machine Records, LLC.",
+            "shortUrl": "http://vevo.ly/Nz97Vq",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/77968679FBCAA89871EDBB06B9E3CBDC.jpg",
+            "duration": 215,
+            "releaseDate": "2012-09-01T00:00:00Z",
+            "votes": {
+                "total": 727
+            },
+            "artists": [
+                {
+                    "name": "Taylor Swift",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/ED71D68A2774938BD6B57A39FDD7C1692014179101441933.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USSD21400020",
+            "title": "Adrenalina",
+            "urlSafeTitle": "Adrenalina",
+            "year": 2014,
+            "copyright": "(C) 2014 Sony Music Entertainment US Latin LLC",
+            "shortUrl": "http://vevo.ly/ju2gDr",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/188745E70018460FB852A183D8FA6B1B2014103165258125.jpg",
+            "duration": 267.517,
+            "releaseDate": "2014-03-03T08:00:00Z",
+            "votes": {
+                "total": 273
+            },
+            "artists": [
+                {
+                    "name": "Jennifer Lopez",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/045F0B5817E0E32B2D7DADEC33634F0D201453154651277.jpg"
+                },
+                {
+                    "name": "Ricky Martin",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/7095B7A746F0C650666E68EED03B4AD4201581174550785.jpg"
+                },
+                {
+                    "name": "Wisin",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/B691C7785CE11B2E3B3700143411F7302013410122922337.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV70502343",
+            "title": "When I'm Gone",
+            "urlSafeTitle": "When-Im-Gone",
+            "year": 2005,
+            "copyright": "(C) 2005 Interscope/Aftermath",
+            "shortUrl": "http://vevo.ly/erdoL9",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/5C3D5084ED523C76D3AF41F5CBDB1B2E.jpg",
+            "duration": 373,
+            "releaseDate": "2005-11-29T08:00:00Z",
+            "votes": {
+                "total": 1268
+            },
+            "artists": [
+                {
+                    "name": "Eminem",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/9D117A7B47524B2C1BC0930469C910742013278132921882.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "GB1101201088",
+            "title": "Kiss You (Official)",
+            "urlSafeTitle": "Kiss-You-(Official)",
+            "year": 2013,
+            "copyright": "(C) 2013 Simco Limited under exclusive licence to Sony Music Entertainment UK Limited",
+            "shortUrl": "http://vevo.ly/VV8gBT",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/1061A4034C65583430ADF1F4B3661AD1.png",
+            "duration": 189.96,
+            "releaseDate": "2013-01-07T19:57:00Z",
+            "votes": {
+                "total": 266
+            },
+            "artists": [
+                {
+                    "name": "One Direction",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/3747B1DAF8EA02BD2171F0EF5B4DCFC9201421107597101.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71302925",
+            "title": "The Monster (Explicit)",
+            "urlSafeTitle": "The-Monster-(Explicit)",
+            "year": 2013,
+            "copyright": "(C) 2013 Aftermath Records/Interscope Records",
+            "shortUrl": "http://vevo.ly/E5SIcq",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/3D71CADE189221548865F23A33E450C92013161214362856.jpg",
+            "duration": 318.386,
+            "releaseDate": "2013-12-17T00:50:00Z",
+            "votes": {
+                "total": 266
+            },
+            "artists": [
+                {
+                    "name": "Eminem",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/9D117A7B47524B2C1BC0930469C910742013278132921882.jpeg"
+                },
+                {
+                    "name": "Rihanna",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/6A699B7848490BC912E2E25206F41FAA.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71101090",
+            "title": "Moves Like Jagger",
+            "urlSafeTitle": "Moves-Like-Jagger",
+            "year": 2011,
+            "copyright": "(C) 2011 Interscope Records",
+            "shortUrl": "http://vevo.ly/o8DV5z",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/71F4FBE100174E6935AB6A8E8D05CCFB.jpg",
+            "duration": 279,
+            "releaseDate": "2011-08-09T07:00:00Z",
+            "votes": {
+                "total": 264
+            },
+            "artists": [
+                {
+                    "name": "Christina Aguilera",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/053694EC8D3C6B99106ED3D6B7017B31.jpg"
+                },
+                {
+                    "name": "Adam Levine",
+                    "role": "Associated",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/BB4C430E7E008B44D876C829BF55D165.jpg"
+                },
+                {
+                    "name": "Maroon 5",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/0E3002DEFAE95359093088A827B7A5B32014379133893.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USH5V1121276",
+            "title": "Love You Like A Love Song",
+            "urlSafeTitle": "Love-You-Like-A-Love-Song",
+            "year": 2011,
+            "copyright": "(C) 2011 Hollywood Records, Inc.",
+            "shortUrl": "http://vevo.ly/jvp50s",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/81301C0B6DCE4AB4FA364B467FF13A92.jpg",
+            "duration": 220,
+            "releaseDate": "2011-06-24T00:30:00Z",
+            "votes": {
+                "total": 262
+            },
+            "artists": [
+                {
+                    "name": "Selena Gomez",
+                    "role": "Associated",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/E15FB16AE910F56538E9682E0410977A.jpg"
+                },
+                {
+                    "name": "Selena Gomez & The Scene",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/D6784CF3C5E671BC45A285B884C7C0DC.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USRV80700002",
+            "title": "Girlfriend",
+            "urlSafeTitle": "Girlfriend",
+            "year": 2006,
+            "copyright": "(C) 2006 RCA/JIVE Label Group, a unit of Sony Music Entertainment",
+            "shortUrl": "http://vevo.ly/grFiz9",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/A9EFA4676272C98D1FFAD3DD75176F6620136111714136.jpg",
+            "duration": 227,
+            "releaseDate": "2007-02-27T08:00:00Z",
+            "votes": {
+                "total": 262
+            },
+            "artists": [
+                {
+                    "name": "Avril Lavigne",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/1352D1CB8113FEBA6A27C0F0DA4ADD552013128105550384.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USRV81300104",
+            "title": "Mirrors",
+            "urlSafeTitle": "Mirrors",
+            "year": 2013,
+            "copyright": "(C) 2013 RCA Records, a division of Sony Music Entertainment",
+            "shortUrl": "http://vevo.ly/XlMfIi",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/528FB4862C9649606CEDD5E3CB8EC0DD.jpg",
+            "duration": 500,
+            "releaseDate": "2013-03-20T00:55:00Z",
+            "votes": {
+                "total": 216
+            },
+            "artists": [
+                {
+                    "name": "Justin Timberlake",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/9F05FBC1D68C16D668531CA69318D670.PNG"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USSM21302428",
+            "title": "Drunk in Love (Explicit)",
+            "urlSafeTitle": "Drunk-in-Love-(Explicit)",
+            "year": 2013,
+            "copyright": "(C) 2013 Columbia Records, a Division of Sony Music Entertainment",
+            "shortUrl": "http://vevo.ly/9YiJhw",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/0839D86088B658DECD938C2F5F703D522013151244447242.jpg",
+            "duration": 381.482,
+            "releaseDate": "2013-12-16T17:00:00Z",
+            "votes": {
+                "total": 258
+            },
+            "artists": [
+                {
+                    "name": "JAY Z",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/E29EE902040AC4BEFB993B2C1A4A1DEF.jpg"
+                },
+                {
+                    "name": "Beyoncé",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/018A52ECAFA76F12C8A6A7286D24FAB92014306122124737.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USSM20804664",
+            "title": "Halo",
+            "urlSafeTitle": "Halo",
+            "year": 2008,
+            "copyright": "(c) 2008 Sony Music Entertainment",
+            "shortUrl": "http://vevo.ly/i7ETki",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/C4BCE9FBF5427C2B5B9912B30BEEC826.jpg",
+            "duration": 223,
+            "releaseDate": "2008-12-29T08:00:00Z",
+            "votes": {
+                "total": 257
+            },
+            "artists": [
+                {
+                    "name": "Beyoncé",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/018A52ECAFA76F12C8A6A7286D24FAB92014306122124737.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USSM20400184",
+            "title": "Chop Suey! (Official Video)",
+            "urlSafeTitle": "Chop-Suey!-(Official-Video)",
+            "year": 2001,
+            "copyright": "(C) 2001 SONY BMG MUSIC ENTERTAINMENT",
+            "shortUrl": "http://vevo.ly/h86tv9",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/4947722A6DE2A3811305F549979A77EE20152911019759.jpg",
+            "duration": 206,
+            "releaseDate": "2004-09-01T07:00:00Z",
+            "votes": {
+                "total": 1254
+            },
+            "artists": [
+                {
+                    "name": "System Of A Down",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/43377DB0B306689749B7A0850B50D5AE2014263105753160.jpeg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USUV71002327",
+            "title": "The Time (Dirty Bit)",
+            "urlSafeTitle": "The-Time-(Dirty-Bit)",
+            "year": 2010,
+            "copyright": "(C) 2010 Interscope Records",
+            "shortUrl": "http://vevo.ly/eqTQ8K",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/2655183F8B872DB97B5E198CCD9D48B5.jpg",
+            "duration": 312,
+            "releaseDate": "2010-11-23T08:00:00Z",
+            "votes": {
+                "total": 225
+            },
+            "artists": [
+                {
+                    "name": "The Black Eyed Peas",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/539232E6BE54B672EF8A87EDEAA1BF26.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "USRV81300147",
+            "title": "Feel This Moment",
+            "urlSafeTitle": "Feel-This-Moment",
+            "year": 2013,
+            "copyright": "(C) 2013 RCA Records, a division of Sony Music Entertainment",
+            "shortUrl": "http://vevo.ly/Yg7rzE",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/B8D1A43DA2D214130468921CFC9C090C201311716402255.jpg",
+            "duration": 236,
+            "releaseDate": "2013-03-15T19:00:00Z",
+            "votes": {
+                "total": 252
+            },
+            "artists": [
+                {
+                    "name": "Christina Aguilera",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/053694EC8D3C6B99106ED3D6B7017B31.jpg"
+                },
+                {
+                    "name": "Pitbull",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/F2DCFE7A1F6345C11E904ADCF296D549.jpg"
+                }
+            ]
+        },
+        {
+            "isMonetizable": true,
+            "isrc": "GB1101300191",
+            "title": "I Need Your Love",
+            "urlSafeTitle": "I-Need-Your-Love",
+            "year": 2013,
+            "copyright": "(C) 2013 Sony Music Entertainment UK Limited",
+            "shortUrl": "http://vevo.ly/XHMcwa",
+            "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/video/AF4CE3AB6BE20A98D34C3BAF8E1ECF53.jpg",
+            "duration": 226.84,
+            "releaseDate": "2013-04-14T23:00:00Z",
+            "votes": {
+                "total": 1250
+            },
+            "artists": [
+                {
+                    "name": "Ellie Goulding",
+                    "role": "Featured",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/FBC1F6E31316179949F139626C6D653E201397185147953.JPG"
+                },
+                {
+                    "name": "Calvin Harris",
+                    "role": "Main",
+                    "thumbnailUrl": "http://img.cache.vevo.com/Content/VevoImages/artist/339C6BD69774717267F4DF7952D7CABB20132310115710235.jpg"
+                }
+            ]
+        }
+    ]
+}

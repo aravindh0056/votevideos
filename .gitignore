@@ -1,0 +1,12 @@
+node_modules
+public/js/components
+.idea
+coverage
+.DS_Store
+*.sublime-workspace
+./build
+build
+tmp
+*.swp
+robots.txt
+*.tusk

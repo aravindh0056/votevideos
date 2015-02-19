@@ -1,0 +1,79 @@
+body {
+  padding: 50px;
+  font: 24px Georgia, Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.thumb {
+  float: left;
+  margin: -0.9em 1em 1.5em 0;
+  padding-bottom: 1em;
+  height: 100px;
+  width: 100px;
+}
+
+.col_1
+{
+  height:50px;
+  margin-top:10px;
+  margin-bottom:10px;
+  text-align:center;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+  width:300px;
+}
+
+.col_2
+{
+  height:50px;
+  margin-bottom:5px;
+  text-align:center;
+  margin-right: 10px;
+  float: left;
+  width:600px;
+}
+
+.col_3
+{
+  height:50px;
+  margin-top:10px;
+  margin-bottom:10px;
+  text-align:center;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+  width:300px;
+}
+
+.col_4
+{
+  height:50px;
+  margin-top:10px;
+  margin-bottom:10px;
+  text-align:center;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+  width:30px;
+}
+
+/* Wrapper */
+.row 
+{
+	width: 1400px;
+	height: 80px;
+	margin:auto;
+}
+
+input .search
+{
+	font-size:15px;
+	width:400px;
+	height:40px;
+}
+
+
